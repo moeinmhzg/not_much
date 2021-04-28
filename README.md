@@ -8,3 +8,4 @@
 # Steambot stuff
 - https://github.com/search?q=steam+buy+bot
 - https://github.com/search?q=steamcardbot
+- https://www.mediafire.com/file/269ybra5napnhkd/SteamCardBot-master.zip/file
